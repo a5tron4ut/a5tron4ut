@@ -1,16 +1,18 @@
-## Hi there 👋
+<details>
+  <summary><h3>📢</h3></summary>
+  <p>
+      <img alt=".NET" src="https://custom-icon-badges.demolab.com/badge/.NET-5C2D91?&logo=dotnet&logoColor=white">
+      <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+      <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <img alt="PHP" src="https://custom-icon-badges.demolab.com/badge/PHP-777BB4?&logo=php&logoColor=white">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <img alt="CSS3" src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?&logo=css3&logoColor=white">
+  </p>
 
-<!--
-**a5tron4ut/a5tron4ut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white">
+    <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
+  </p>
+</details>
